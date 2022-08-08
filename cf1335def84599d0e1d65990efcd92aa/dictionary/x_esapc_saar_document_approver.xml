@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" label="Document Approver" max_length="40" name="x_esapc_saar_document_approver" sizeclass="2" text_index="true" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="Approval Id" max_length="40" name="approval_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Approval Id" max_length="40" name="approval_id" type="string" use_dynamic_default="true"/>
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Approver" mandatory="true" max_length="32" name="approver" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Approver Group" max_length="32" name="approver_group" reference="sys_user_group" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Comments" max_length="40" name="comments" type="journal_input"/>
