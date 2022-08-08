@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description>text_06_FieldValue</description>
+        <name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-03 17:06:23</sys_created_on>
+        <sys_id>031335def44599d0d3830bfdda27667a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_031335def44599d0d3830bfdda27667a</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-03 17:06:23</sys_updated_on>
+        <translated_value/>
+        <value>document</value>
+        <view_config_element display_value="text_06_element">071335de1a4599d06dc944d1ed949f7a</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=031335def44599d0d3830bfdda27667a"/>
+</record_update>

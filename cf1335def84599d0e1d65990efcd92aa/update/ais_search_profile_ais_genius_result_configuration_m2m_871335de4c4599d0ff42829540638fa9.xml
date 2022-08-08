@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_genius_result_configuration_m2m">
+    <ais_search_profile_ais_genius_result_configuration_m2m action="INSERT_OR_UPDATE">
+        <genius_result_configuration display_value="Document Approval Genius Result">4b1335dea34599d025f2ec108e76aaa9</genius_result_configuration>
+        <order>100</order>
+        <profile display_value="Document Approval Search Profile">0b1335ded94599d0cb245c03ee0b10a9</profile>
+        <sys_class_name>ais_search_profile_ais_genius_result_configuration_m2m</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-03 17:06:43</sys_created_on>
+        <sys_id>871335de4c4599d0ff42829540638fa9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Approval Genius Result.Document Approval Search Profile</sys_name>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>ais_search_profile_ais_genius_result_configuration_m2m_871335de4c4599d0ff42829540638fa9</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-03 17:06:43</sys_updated_on>
+    </ais_search_profile_ais_genius_result_configuration_m2m>
+</record_update>

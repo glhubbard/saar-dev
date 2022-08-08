@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>doc_submit</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-03 17:06:42</sys_created_on>
+        <sys_id>0f1335de004599d0944a08d54b06176e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>doc_submit</sys_name>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>sys_ux_screen_type_0f1335de004599d0944a08d54b06176e</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-03 17:06:42</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=0f1335de004599d0944a08d54b06176e"/>
+</record_update>

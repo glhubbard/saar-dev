@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>number,name,submitter,description,approval_category,status,active,sys_created_on,sys_created_by,sys_updated_on,sys_updated_by,work_notes</field_list>
+        <name>document-view-config</name>
+        <order/>
+        <predicate_bundle display_value="document-approval-view-config-bundle">4f1335de9f4599d08619226a3fdb7268</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-03 17:06:37</sys_created_on>
+        <sys_id>071335de844599d0e216afe2665dd868</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>document-view-config</sys_name>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_071335de844599d0e216afe2665dd868</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-03 17:06:37</sys_updated_on>
+        <table>x_esapc_saar_document_approval</table>
+        <ux_template display_value="doc-approval-view-all-template">871335de7f4599d0b1ea34bb67e8fc68</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

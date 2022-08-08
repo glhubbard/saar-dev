@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Doc Approval Workspace App Config">0f1335def84599d0a600473caf67e7a9</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Attachment">871335de6f4599d00f189912cd8eda65</macroponent>
+        <macroponent_config>{
+  "table" : {
+    "type" : "CONTEXT_BINDING",
+    "binding" : {
+      "address" : [ "table" ],
+      "category" : "props"
+    }
+  },
+  "sysId" : {
+    "type" : "CONTEXT_BINDING",
+    "binding" : {
+      "address" : [ "sysId" ],
+      "category" : "props"
+    }
+  },
+  "label" : {
+    "type" : "TRANSLATION_LITERAL",
+    "value" : {
+      "code" : null,
+      "message" : "",
+      "comment" : ""
+    }
+  },
+  "bare" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  },
+  "scrollable" : {
+    "type" : "JSON_LITERAL",
+    "value" : "y"
+  },
+  "headerLevel" : {
+    "type" : "JSON_LITERAL",
+    "value" : "1"
+  },
+  "headingOnlyVisibleToScreenReaders" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "interceptNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "propagateNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}</macroponent_config>
+        <name>Attachments default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record">0b1335de9a4599d056c6c8d34af46a73</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Attachments">4b1335de264599d013445e2f14afab6e</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-03 17:06:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4f1335dea94599d097a00ca53691f162</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachments default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>sys_ux_screen_4f1335dea94599d097a00ca53691f162</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-03 17:06:34</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=4f1335dea94599d097a00ca53691f162"/>
+</record_update>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="status" table="x_esapc_saar_document_approval" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <name>x_esapc_saar_document_approval</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id>2443fdde1b4599d06b66b8c11a4bcbd7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>status</sys_name>
+            <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+            <sys_update_name>sys_choice_x_esapc_saar_document_approval_status</sys_update_name>
+            <sys_updated_by>ghubbard</sys_updated_by>
+            <sys_updated_on>2022-08-03 17:06:56</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Submitted</label>
+            <language>en</language>
+            <name>x_esapc_saar_document_approval</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>ghubbard</sys_created_by>
+            <sys_created_on>2022-08-03 17:06:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0f1335de2e4599d02d896e7d173a4da1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ghubbard</sys_updated_by>
+            <sys_updated_on>2022-08-03 17:06:54</sys_updated_on>
+            <value>submitted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Returned</label>
+            <language>en</language>
+            <name>x_esapc_saar_document_approval</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>ghubbard</sys_created_by>
+            <sys_created_on>2022-08-03 17:06:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb1335deeb4599d0742c0f7df14375a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ghubbard</sys_updated_by>
+            <sys_updated_on>2022-08-03 17:06:56</sys_updated_on>
+            <value>returned</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_esapc_saar_document_approval</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>ghubbard</sys_created_by>
+            <sys_created_on>2022-08-03 17:06:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>831335de264599d07b9bb2d036c961a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ghubbard</sys_updated_by>
+            <sys_updated_on>2022-08-03 17:06:56</sys_updated_on>
+            <value>approved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rejected</label>
+            <language>en</language>
+            <name>x_esapc_saar_document_approval</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>ghubbard</sys_created_by>
+            <sys_created_on>2022-08-03 17:06:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>871335de0b4599d0eb689486e22a1da1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ghubbard</sys_updated_by>
+            <sys_updated_on>2022-08-03 17:06:56</sys_updated_on>
+            <value>rejected</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

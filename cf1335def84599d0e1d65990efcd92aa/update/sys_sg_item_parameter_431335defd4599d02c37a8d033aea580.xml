@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>comments</name>
+        <parent>c31335de894599d0263e2f0af5d52c7f</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-03 17:06:40</sys_created_on>
+        <sys_id>431335defd4599d02c37a8d033aea580</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>comments</sys_name>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_431335defd4599d02c37a8d033aea580</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-03 17:06:40</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

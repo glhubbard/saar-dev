@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_section">
+    <sys_sg_chart_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <card_size/>
+        <charts>871335deb54599d01317c2e3a67cbe7e,c31335de924599d05c322d5fd997917e,071335ded64599d04911d4a2375e767e</charts>
+        <column_count/>
+        <custom_height/>
+        <custom_width/>
+        <data_item/>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_custom_size>false</is_custom_size>
+        <is_hidden_preference_name/>
+        <orientation>horizontal</orientation>
+        <required_roles/>
+        <row_count/>
+        <sys_class_name>sys_sg_chart_section</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-03 17:06:38</sys_created_on>
+        <sys_id>8b1335deae4599d0143cb137f443f77f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Approvals</sys_name>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>sys_sg_chart_section_8b1335deae4599d0143cb137f443f77f</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-03 17:06:38</sys_updated_on>
+        <table/>
+        <title>Document Approvals</title>
+        <type>single_score</type>
+        <visible_condition/>
+        <wide_column_count/>
+    </sys_sg_chart_section>
+</record_update>

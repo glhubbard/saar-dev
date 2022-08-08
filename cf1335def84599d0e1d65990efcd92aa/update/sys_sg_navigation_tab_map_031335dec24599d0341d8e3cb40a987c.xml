@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
+        <navigation display_value="Now Mobile Nav">9f67848187403300e0ef0cf888cb0b2e</navigation>
+        <navigation_tab display_value="Dcoument Approval">071335deb54599d0cb60c773ae30677f</navigation_tab>
+        <order>35</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-03 17:06:57</sys_created_on>
+        <sys_id>031335dec24599d0341d8e3cb40a987c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_031335dec24599d0341d8e3cb40a987c</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-03 17:06:57</sys_updated_on>
+    </sys_sg_navigation_tab_map>
+</record_update>

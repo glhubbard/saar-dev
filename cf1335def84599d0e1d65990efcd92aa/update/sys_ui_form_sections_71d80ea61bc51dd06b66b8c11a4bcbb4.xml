@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="71d80ea61bc51dd06b66b8c11a4bcbb4" sys_domain="global" table="x_esapc_saar_document_approval_category" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>ghubbard</sys_created_by>
+            <sys_created_on>2022-08-04 13:19:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f1d80ea61bc51dd06b66b8c11a4bcbb7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_esapc_saar_document_approval_category" name="x_esapc_saar_document_approval_category" sys_domain="global" view="c776a8c73d2630100acbff3420d737e3">71d80ea61bc51dd06b66b8c11a4bcbb4</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_esapc_saar_document_approval_category" sys_domain="global" view="c776a8c73d2630100acbff3420d737e3">871335de854599d0c80217c1a33ebc78</sys_ui_section>
+            <sys_updated_by>ghubbard</sys_updated_by>
+            <sys_updated_on>2022-08-04 13:19:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>ghubbard</sys_created_by>
+            <sys_created_on>2022-08-04 13:19:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>31d80ea61bc51dd06b66b8c11a4bcbb8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_esapc_saar_document_approval_category" name="x_esapc_saar_document_approval_category" sys_domain="global" view="c776a8c73d2630100acbff3420d737e3">71d80ea61bc51dd06b66b8c11a4bcbb4</sys_ui_form>
+            <sys_ui_section caption="Approval Automation" display_value="Approval Automation" name="x_esapc_saar_document_approval_category" sys_domain="global" view="c776a8c73d2630100acbff3420d737e3">b1d80ea61bc51dd06b66b8c11a4bcb68</sys_ui_section>
+            <sys_updated_by>ghubbard</sys_updated_by>
+            <sys_updated_on>2022-08-04 13:19:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_esapc_saar_document_approval_category</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>ghubbard</sys_created_by>
+            <sys_created_on>2022-08-04 13:19:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>71d80ea61bc51dd06b66b8c11a4bcbb4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_esapc_saar_document_approval_category</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+            <sys_update_name>sys_ui_form_sections_71d80ea61bc51dd06b66b8c11a4bcbb4</sys_update_name>
+            <sys_updated_by>ghubbard</sys_updated_by>
+            <sys_updated_on>2022-08-04 13:19:41</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace" name="workspace">c776a8c73d2630100acbff3420d737e3</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

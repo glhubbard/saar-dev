@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="SAAR">4b1335def84599d0df564deb6a6cf17f</applet_launcher>
+        <order>20</order>
+        <section display_value="New Document Approvals">471335defc4599d0a8d6216d7297a27f</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-03 17:06:41</sys_created_on>
+        <sys_id>0b1335decd4599d02ca3201cba810b7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_0b1335decd4599d02ca3201cba810b7f</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-03 17:06:41</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

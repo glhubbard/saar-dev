@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Doc Approval Portal App Config">431335ded34599d08fa0dcb872389faa</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Activity</name>
+        <optional_parameters/>
+        <order>100</order>
+        <parent_macroponent display_value="document_record_display">031335de454599d096c94ca473399670</parent_macroponent>
+        <parent_macroponent_composition_element_id>ckijothhjjddaaaaaaxddeiiabcceezpbblii</parent_macroponent_composition_element_id>
+        <route_type>activity</route_type>
+        <screen_type display_value="Activity">431335dec84599d023d25a5705fd3770</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-03 17:06:32</sys_created_on>
+        <sys_id>071335de534599d05d208e09ed2ab06f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activity</sys_name>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>sys_ux_app_route_071335de534599d05d208e09ed2ab06f</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-03 17:06:32</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=071335de534599d05d208e09ed2ab06f"/>
+</record_update>

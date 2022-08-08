@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Home">471335de774599d075e033021685096a</macroponent>
+        <name>getHeading</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({api, event, helpers, imports}) {
+    
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-03 17:06:58</sys_created_on>
+        <sys_id>071335de654599d0ff70044a4a38ed6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>getHeading</sys_name>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>sys_ux_client_script_071335de654599d0ff70044a4a38ed6a</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-03 17:06:58</sys_updated_on>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

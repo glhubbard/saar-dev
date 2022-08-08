@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Reject document">c71335de594599d0d177125f93ad0380</button>
+        <color_theme>destructive</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Reject</label>
+        <location>footer</location>
+        <name>Reject</name>
+        <order>10</order>
+        <parent>4b1335de0c4599d090c6251c3a12a87e</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-03 17:06:44</sys_created_on>
+        <sys_id>8b1335dee04599d06c3fe2d9db79857e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reject</sys_name>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>sys_sg_button_instance_8b1335dee04599d06c3fe2d9db79857e</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-03 17:06:44</sys_updated_on>
+        <table>x_esapc_saar_document_approver</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=8b1335dee04599d06c3fe2d9db79857e"/>
+</record_update>

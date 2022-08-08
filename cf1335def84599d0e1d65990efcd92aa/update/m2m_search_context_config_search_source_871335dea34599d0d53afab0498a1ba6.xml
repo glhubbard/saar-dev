@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <search_context_config display_value="Document Approvals Search">4f1335ded04599d07d1db1a8584561a6</search_context_config>
+        <source display_value="Document Approval">071335de684599d0fa677d13b64e72a6</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-03 17:06:33</sys_created_on>
+        <sys_id>871335dea34599d0d53afab0498a1ba6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_871335dea34599d0d53afab0498a1ba6</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-03 17:06:33</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

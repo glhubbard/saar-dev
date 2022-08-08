@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_m2m_workspace_header_ux_header_config">
+    <sys_ux_m2m_workspace_header_ux_header_config action="INSERT_OR_UPDATE">
+        <header_config display_value="Document Approval Workspace">871335dec74599d061a077b6fcd82466</header_config>
+        <sys_class_name>sys_ux_m2m_workspace_header_ux_header_config</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-03 17:06:33</sys_created_on>
+        <sys_id>0b1335de084599d07d53c3f2b6300165</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>sys_ux_m2m_workspace_header_ux_header_config_0b1335de084599d07d53c3f2b6300165</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-03 17:06:33</sys_updated_on>
+        <workspace_form_header display_value="x_esapc_saar_document_approver">871335de4c4599d0135f35f107f922a2</workspace_form_header>
+    </sys_ux_m2m_workspace_header_ux_header_config>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="New Document Aprpovals Item Stream">471335de344599d0da387cc67d48027d</item_stream>
+        <segment display_value="Item Stream Segment">c31335de384599d01acb3076507b907c</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-03 17:06:40</sys_created_on>
+        <sys_id>831335defa4599d0e46b44cd04e6917c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_831335defa4599d0e46b44cd04e6917c</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-03 17:06:40</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

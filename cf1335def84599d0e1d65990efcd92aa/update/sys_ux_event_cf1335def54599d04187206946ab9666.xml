@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>MODAL_SELECTED_RELAY_831335de894599d0743a56e16c2db767</event_name>
+        <interfaces/>
+        <label>Open or close modal dialog Relay (Document Edit default)</label>
+        <props>[{"name":"modalId","fieldType":"string","interfaceApiName":"global.modal","label":"Modal"},{"name":"showModal","fieldType":"boolean","interfaceApiName":null,"label":"Open modal dialog"},{"name":"displayOptions","fieldType":"json","interfaceApiName":null,"label":"Display options (advanced)"},{"name":"bare","fieldType":"boolean","interfaceApiName":"global.modal","label":"Use bare modal"},{"name":"viewportElementId","fieldType":"string","interfaceApiName":null,"label":"Viewport ID"},{"name":"viewportRoute","fieldType":"string","interfaceApiName":null,"label":"Viewport Route"},{"name":"viewportFields","fieldType":"json","interfaceApiName":null,"label":"Viewport Fields"}]</props>
+        <required_translations>[ {
+  "message" : "Display options (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Modal",
+  "comment" : ""
+}, {
+  "message" : "Open modal dialog",
+  "comment" : ""
+}, {
+  "message" : "Use bare modal",
+  "comment" : ""
+}, {
+  "message" : "Viewport Fields",
+  "comment" : ""
+}, {
+  "message" : "Viewport ID",
+  "comment" : ""
+}, {
+  "message" : "Viewport Route",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-03 17:06:24</sys_created_on>
+        <sys_id>cf1335def54599d04187206946ab9666</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open or close modal dialog Relay (Document Edit default)</sys_name>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>sys_ux_event_cf1335def54599d04187206946ab9666</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-03 17:06:24</sys_updated_on>
+    </sys_ux_event>
+</record_update>

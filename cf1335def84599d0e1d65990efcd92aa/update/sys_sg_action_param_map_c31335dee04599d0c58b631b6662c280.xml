@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Approve document">471335de3c4599d0367bf429ee140380</button>
+        <item_parameter display_value="comments">431335defd4599d02c37a8d033aea580</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-03 17:06:40</sys_created_on>
+        <sys_id>c31335dee04599d0c58b631b6662c280</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>431335defd4599d02c37a8d033aea580</sys_name>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_c31335dee04599d0c58b631b6662c280</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-03 17:06:40</sys_updated_on>
+        <ui_parameter display_value="Reason for approving">4b1335de714599d0e091a3bc24726380</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

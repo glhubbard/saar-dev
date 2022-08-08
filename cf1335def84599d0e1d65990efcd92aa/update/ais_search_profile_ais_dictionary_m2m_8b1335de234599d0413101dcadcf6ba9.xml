@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="default_synonym_dictionary">b29df374c7531010d1cfd9795cc260cd</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="Document Approval Search Profile">0b1335ded94599d0cb245c03ee0b10a9</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-03 17:06:41</sys_created_on>
+        <sys_id>8b1335de234599d0413101dcadcf6ba9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>default_synonym_dictionary.Document Approval Search Profile</sys_name>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_8b1335de234599d0413101dcadcf6ba9</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-03 17:06:41</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

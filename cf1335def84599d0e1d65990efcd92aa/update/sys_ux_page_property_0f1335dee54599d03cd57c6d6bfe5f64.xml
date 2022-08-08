@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="SAAR Workspace">cf1335de504599d067de6136224a51a9</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-03 17:06:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0f1335dee54599d03cd57c6d6bfe5f64</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>sys_ux_page_property_0f1335dee54599d03cd57c6d6bfe5f64</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-03 17:06:44</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_esapc_saar.cf1335de504599d067de6136224a51a9.root.chrome_tab</unique_name>
+        <value>{&#13;
+  "contextual": [&#13;
+    "details"&#13;
+  ],&#13;
+  "maxMainTabLimit": 10,&#13;
+  "maxTotalSubTabLimit": 30&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=0f1335dee54599d03cd57c6d6bfe5f64"/>
+</record_update>

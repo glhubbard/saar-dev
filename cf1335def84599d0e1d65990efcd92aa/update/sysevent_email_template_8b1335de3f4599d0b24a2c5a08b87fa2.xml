@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_esapc_saar_document_approval</collection>
+        <email_layout display_value="Document Approval Notification Layout">4b1335de984599d09b70f0736eab20a2</email_layout>
+        <message/>
+        <message_html/>
+        <message_list/>
+        <message_text/>
+        <name>Document Approval Template</name>
+        <sms_alternate/>
+        <subject>Document Approval Subject</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-03 17:06:46</sys_created_on>
+        <sys_id>8b1335de3f4599d0b24a2c5a08b87fa2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Approval Template</sys_name>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>sysevent_email_template_8b1335de3f4599d0b24a2c5a08b87fa2</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-03 17:06:46</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>
