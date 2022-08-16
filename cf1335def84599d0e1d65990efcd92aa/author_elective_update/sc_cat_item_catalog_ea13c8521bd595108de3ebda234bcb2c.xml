@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="System Access Authorization Request (DD 2875)">9c41009e1b9595108de3ebda234bcbf3</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-15 19:12:35</sys_created_on>
+        <sys_id>ea13c8521bd595108de3ebda234bcb2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.System Access Authorization Request (DD 2875)</sys_name>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_ea13c8521bd595108de3ebda234bcb2c</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-15 19:12:35</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</application>
+        <file_path/>
+        <instance_id>898730bddb7427441ddcf22ebf961948</instance_id>
+        <instance_name>enterpriseservicesllcdemo1</instance_name>
+        <name>sc_cat_item_catalog_ea13c8521bd595108de3ebda234bcb2c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="System Access Authorization Request (DD 2875)">9c41009e1b9595108de3ebda234bcbf3</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>ghubbard</sys_created_by><sys_created_on>2022-08-15 19:12:35</sys_created_on><sys_id>ea13c8521bd595108de3ebda234bcb2c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.System Access Authorization Request (DD 2875)</sys_name><sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package><sys_policy/><sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope><sys_update_name>sc_cat_item_catalog_ea13c8521bd595108de3ebda234bcb2c</sys_update_name><sys_updated_by>ghubbard</sys_updated_by><sys_updated_on>2022-08-15 19:12:35</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1395352431</payload_hash>
+        <record_name>Service Catalog.System Access Authorization Request (DD 2875)</record_name>
+        <reverted_from/>
+        <source>00b35f731b8dd5148de3ebda234bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-15 19:12:35</sys_created_on>
+        <sys_id>a213c8521bd595108de3ebda234bcb30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182a2ec0e4a0000001</sys_recorded_at>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-15 19:12:35</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>2a13c852ccd59510d7ecdd81ff45792f</update_guid>
+        <update_guid_history>2a13c852ccd59510d7ecdd81ff45792f:-1395352431</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.System Access Authorization Request (DD 2875)">b74340921bd595108de3ebda234bcb84</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-15 19:13:30</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>7a7edad53aaa4200a565aed8b1ce6400</sys_id>
+        <sys_metadata>ea13c8521bd595108de3ebda234bcb2c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.System Access Authorization Request (DD 2875)</sys_name>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_parent display_value="System Access Authorization Request (DD 2875)">9c41009e1b9595108de3ebda234bcbf3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_scope_delete display_value="">32a5f00287784696ab5f937956a00ca1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_ea13c8521bd595108de3ebda234bcb2c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_ea13c8521bd595108de3ebda234bcb2c">a213c8521bd595108de3ebda234bcb30</sys_update_version>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-15 19:13:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

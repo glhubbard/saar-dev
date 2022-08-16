@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="System Access Authorization Request (DD 2875)">9c41009e1b9595108de3ebda234bcbf3</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-15 19:17:04</sys_created_on>
+        <sys_id>58244cd21bd595108de3ebda234bcb93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.System Access Authorization Request (DD 2875)</sys_name>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>sc_cat_item_category_58244cd21bd595108de3ebda234bcb93</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-15 19:17:04</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</application>
+        <file_path/>
+        <instance_id>898730bddb7427441ddcf22ebf961948</instance_id>
+        <instance_name>enterpriseservicesllcdemo1</instance_name>
+        <name>sc_cat_item_category_58244cd21bd595108de3ebda234bcb93</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="System Access Authorization Request (DD 2875)">9c41009e1b9595108de3ebda234bcbf3</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>ghubbard</sys_created_by><sys_created_on>2022-08-15 19:17:04</sys_created_on><sys_id>58244cd21bd595108de3ebda234bcb93</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.System Access Authorization Request (DD 2875)</sys_name><sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package><sys_policy/><sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope><sys_update_name>sc_cat_item_category_58244cd21bd595108de3ebda234bcb93</sys_update_name><sys_updated_by>ghubbard</sys_updated_by><sys_updated_on>2022-08-15 19:17:04</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1026887269</payload_hash>
+        <record_name>Can We Help You?.System Access Authorization Request (DD 2875)</record_name>
+        <reverted_from/>
+        <source>00b35f731b8dd5148de3ebda234bcbf2</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-15 19:17:04</sys_created_on>
+        <sys_id>18244cd21bd595108de3ebda234bcb97</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182a2f02a370000001</sys_recorded_at>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-15 19:17:04</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>9c244cd2bdd5951024f530a3f7f0eb96</update_guid>
+        <update_guid_history>9c244cd2bdd5951024f530a3f7f0eb96:-1026887269</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.System Access Authorization Request (DD 2875)">935d30621b1d19108de3ebda234bcbf1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-08-16 18:05:36</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>1d800ba786b743e28ef6d74c9b059d29</sys_id>
+        <sys_metadata>58244cd21bd595108de3ebda234bcb93</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.System Access Authorization Request (DD 2875)</sys_name>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_scope_delete display_value="">32a5f00287784696ab5f937956a00ca1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_58244cd21bd595108de3ebda234bcb93</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_58244cd21bd595108de3ebda234bcb93">18244cd21bd595108de3ebda234bcb97</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-08-16 18:05:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

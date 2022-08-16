@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="user_criteria">
+    <user_criteria action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <company/>
+        <department/>
+        <group/>
+        <location/>
+        <match_all>false</match_all>
+        <name>All users with saar.submitter role</name>
+        <role name="x_esapc_saar.submitter">831335dee14599d091f414895049a1aa</role>
+        <script/>
+        <sys_class_name>user_criteria</sys_class_name>
+        <sys_created_by>ghubbard</sys_created_by>
+        <sys_created_on>2022-08-15 19:16:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>16b300d21bd595108de3ebda234bcb84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All users with saar.submitter role</sys_name>
+        <sys_package display_value="SAAR" source="x_esapc_saar">cf1335def84599d0e1d65990efcd92aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAAR">cf1335def84599d0e1d65990efcd92aa</sys_scope>
+        <sys_update_name>user_criteria_16b300d21bd595108de3ebda234bcb84</sys_update_name>
+        <sys_updated_by>ghubbard</sys_updated_by>
+        <sys_updated_on>2022-08-15 19:16:15</sys_updated_on>
+        <user/>
+    </user_criteria>
+</record_update>
